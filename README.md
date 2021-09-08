@@ -5,11 +5,12 @@ Good day! I am SeongJu Lee who is interested in iOS application development from
 If you want to contact me, please leave me a message!
 
 - 📫 How to reach me: denny00123@naver.com
+- 
 
 
 ### 🌟 Experience
-       1. Samsung Junior Software Cup mentor
-       2. Pukyong Nat'l Univ. Undergraduate research student (u-IT GIS and urban disaster prevention Lab.)
+1. Samsung Junior Software Cup mentor
+2. Pukyong Nat'l Univ. Undergraduate research student (u-IT GIS and urban disaster prevention Lab.)
 
 <!--
 **sj-lee98/sj-lee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
