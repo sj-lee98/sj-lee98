@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good day! I am SeongJu Lee who is interested in iOS application development from South Korea.
+Good day! I am Seongju Lee who is interested in iOS application development from South Korea.
 
 If you want to contact me, please leave me a message!
 
