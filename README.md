@@ -11,6 +11,7 @@ If you want to contact me, please leave me a message!
 ### 🌟 Experience
 1. Samsung Junior Software Cup mentor
 2. Pukyong Nat'l Univ. Undergraduate research student (u-IT GIS and urban disaster prevention Lab.)
+3. Digital Learning Center supporters
 
 <!--
 **sj-lee98/sj-lee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
